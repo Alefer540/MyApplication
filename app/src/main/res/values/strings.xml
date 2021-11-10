@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="inicio">INICIO</string>
+    <string name="originals">ORIGINALS</string>
+    <string name="series">SERIES</string>
+    <string name="pel_culas">PELÍCULAS</string>
+    <string name="infantil">INFANTIL</string>
+</resources>
