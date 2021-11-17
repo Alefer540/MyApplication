@@ -60,10 +60,9 @@
                 android:layout_width="110dp"
                 android:layout_height="35dp"
                 android:backgroundTint="#0F171D"
-                android:text="@string/pel_culas"
                 android:gravity="center"
-                android:textColor="@color/white"
-                />
+                android:text="@string/pel_culas"
+                android:textColor="@color/white" />
 
             <TextView
                 android:layout_width="100dp"
